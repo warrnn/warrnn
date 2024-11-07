@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warrnn&label=Profile%20views&color=0008ff&style=flat" alt="warrnn" /> </p>
 
 - 🔭 I’m currently working on **Sentra Evangelisasi Pribadi - Cross Network**
+  
+- 🔭 I’m currently working on **Qiu - Technopreneurship**
+
+- 🔭 I’m currently working on **GameX - Web Frameworks & Deployment**
 
 - 🌱 I’m currently learning **React & NextJS**
 
