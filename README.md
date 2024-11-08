@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sentra Evangelisasi Pribadi - Cross Network<br>🔭 I’m currently working on Qiu - Technopreneurship<br>🔭 I’m currently working on GameX - Web Frameworks & Deployment<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about ![Laravel](https://img.shields.io/badge/laravel.svg?style=for-the-badge&logo=laravel&logoColor=white)
+🔭 I’m currently working on Sentra Evangelisasi Pribadi - Cross Network<br>🔭 I’m currently working on Qiu - Technopreneurship<br>🔭 I’m currently working on GameX - Web Frameworks & Deployment<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about Laravel
 
 
 ## 🌐 Socials:
