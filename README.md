@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=warrnn&icon=10&color=13)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Sentra Evangelisasi Pribadi - Cross Network<br>🔭 I’m currently working on Qiu - Technopreneurship<br>🔭 I’m currently working on GameX - Web Frameworks & Deployment<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about Laravel
 
@@ -14,8 +16,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=warrnn&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
