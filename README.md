@@ -5,7 +5,7 @@
 🔭 I’m currently working on Sentra Evangelisasi Pribadi - Cross Network<br>
 🔭 I’m currently working on GameX - Web Frameworks & Deployment<br>
 💎 I’m currently learning Ruby<br>
-💬 Ask me about Laravel
+💬 Ask me about Laravel, Svelte, Go (Echo Labstack)
 
 
 ## 🌐 Socials:
