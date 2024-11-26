@@ -2,7 +2,7 @@
 
 ---
 
-# 💫 About Me:
+# 🧑‍💻 About Me:
 🔭 I’m currently working on Company Website - Mass Safety<br>
 🔭 I’m currently working on Sentra Evangelisasi Pribadi - Cross Network<br>
 🔭 I’m currently working on GameX - Web Frameworks & Deployment<br>
