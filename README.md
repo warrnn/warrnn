@@ -3,7 +3,7 @@
 ---
 
 # 🧑‍💻 About Me:
-🔭 I’m currently working on Company Website - Mass Safety<br>
+🔭 I’m currently do intern in PT. Dutakom Wibawa Putra as Backend Developer<br>
 💎 I’m currently learning Ruby on Rails & GraphQL<br>
 💬 Ask me about Laravel, Svelte, Go (Echo Labstack), & Android (Kotlin)
 
