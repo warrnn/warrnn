@@ -4,7 +4,7 @@
 
 # 🧑‍💻 About Me:
 🔭 I'm currently interning at PT. Dutakom Wibawa Putra as a Backend Developer<br>
-💎 I’m currently learning Ruby on Rails & GraphQL<br>
+💎 I’m currently learning Ruby on Rails, NextJS & GraphQL<br>
 💬 Ask me about Laravel, Svelte, Go (Echo Labstack), & Android (Kotlin)
 
 
