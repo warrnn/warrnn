@@ -3,7 +3,7 @@
 ---
 
 # 🧑‍💻 About Me:
-🔭 Backend Intern Graduate from PT. Dutakom Wibawa Putra<br>
+🔭 Backend Intern Graduate from <a href="https://dnetprovider.id/id/">PT. Dutakom Wibawa Putra</a><br>
 💎 I’m currently learning ReactJS & NextJS<br>
 
 
