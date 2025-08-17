@@ -3,9 +3,8 @@
 ---
 
 # 🧑‍💻 About Me:
-🔭 I'm currently interning at PT. Dutakom Wibawa Putra as a Backend Developer<br>
-💎 I’m currently learning ReactJS<br>
-💬 Ask me about Laravel, Svelte, Go, Android, Ruby, GraphQL
+🔭 Backend Intern Graduate from PT. Dutakom Wibawa Putra<br>
+💎 I’m currently learning ReactJS & NextJS<br>
 
 
 ## 🌐 Socials:
