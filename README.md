@@ -4,7 +4,7 @@
 
 # 🧑‍💻 About Me:
 🔭 Backend Intern Graduate from <a href="https://dnetprovider.id/id/">PT. Dutakom Wibawa Putra</a><br>
-💎 I’m currently learning MERN & Kubernetes<br>
+💎 I’m currently learning Kubernetes & FrankenPHP<br>
 
 
 ## 🌐 Socials:
