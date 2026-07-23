@@ -1,7 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=warrnn&icon=6&color=13)](https://visitcount.itsvg.in)
-
----
-
 # 🧑‍💻 About Me:
 🔭 Backend Intern Graduate from <a href="https://dnetprovider.id/id/">PT. Dutakom Wibawa Putra</a><br>
 💎 I’m currently learning Kubernetes & FrankenPHP<br>
