@@ -1,10 +1,6 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 [![](https://visitcount.itsvg.in/api?id=warrnn&icon=6&color=13)](https://visitcount.itsvg.in)
 
 ---
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="warrnn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/warrnn?trk=profile-badge">Bryan Mogens Warren</a></div>
 
 # 🧑‍💻 About Me:
 🔭 Backend Intern Graduate from <a href="https://dnetprovider.id/id/">PT. Dutakom Wibawa Putra</a><br>
