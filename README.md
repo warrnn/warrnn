@@ -1,5 +1,5 @@
 # 💁‍♂️ About Me:
-🧑‍💻 Full Stack Web Developer at <a href="https://www.tantonet.com/">PT. Tanto Intim Line</a><br>
+🧑‍💻 Full Stack Web Developer & AI Engineer at <a href="https://www.tantonet.com/">PT. Tanto Intim Line</a><br>
 🔭 Backend Intern Graduate from <a href="https://dnetprovider.id/id/">PT. Dutakom Wibawa Putra</a><br>
 💎 I’m currently learning Kubernetes & FrankenPHP<br>
 
